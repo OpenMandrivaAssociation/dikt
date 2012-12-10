@@ -47,3 +47,11 @@ is much smaller and faster than a real web browser.
 %{_kde_services}/dict.protocol
 %{_kde_iconsdir}/hicolor/128x128/apps/%{name}.png
 
+
+
+%changelog
+* Wed Feb 22 2012 Andrey Bondrov <abondrov@mandriva.org> 2.0g-1mdv2011.0
++ Revision: 779181
+- Update URL
+- imported package dikt
+
