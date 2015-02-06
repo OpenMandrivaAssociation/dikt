@@ -4,7 +4,7 @@
 
 Name:		dikt
 Version:	2.0g
-Release:	%mkrel 1
+Release:	2
 Summary:	A KDE client for the Dict network dictionary protocol
 License:	BSD-like
 Group:		Networking/Other
