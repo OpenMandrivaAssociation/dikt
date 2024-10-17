@@ -8,7 +8,7 @@ Release:	2
 Summary:	A KDE client for the Dict network dictionary protocol
 License:	BSD-like
 Group:		Networking/Other
-URL:		http://dikt.99k.org/
+URL:		https://dikt.99k.org/
 Source0:	%{name}-%{oversion}.xz
 BuildRequires:	cmake
 BuildRequires:	kdelibs4-devel
